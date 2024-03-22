@@ -1,0 +1,49 @@
+body {
+    padding: 20px;
+    background-image: url(../image/fondo-dia-internacional-gato-dibujado-mano-gatos_23-2149454182.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+main {
+    background-color: #562d85;
+}
+
+.home {
+    width: 40px;
+    height: 40px;
+    background-image: url("../image/gatodinero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.home:hover {
+    width: 40px;
+    height: 40px;
+    background-image: url("../image/perrodinero.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.login {
+    width: 40px;
+    height: 40px;
+    background-image: url("../image/gatobillete.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.login:hover {
+    width: 40px;
+    height: 40px;
+    background-image: url("../image/gatobillete.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
